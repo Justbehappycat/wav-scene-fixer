@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.build-venv/
+build/
+dist/
+*.spec
+*.zip
+*.app/
+portable/
+cleaned/
+*.WAV
+*.wav
+.DS_Store
