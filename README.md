@@ -81,6 +81,15 @@ you affected.
 Test WAVs are generated synthetically (`tests/make_test_wav.py`) — no real
 production audio in this repo.
 
+## Disclaimer
+
+This software is provided **as is, without warranty of any kind** (see
+[LICENSE](LICENSE)). The author is **not responsible for damage to or loss of
+production files**. Although the tool never writes to the originals by
+design, **always keep a backup of your original recordings before running
+it** — every time, on every batch. Verify the cleaned files in your own
+workflow before using them in post.
+
 ## License
 
 MIT
